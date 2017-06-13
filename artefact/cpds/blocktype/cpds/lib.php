@@ -40,7 +40,7 @@ class PluginBlocktypeCpds extends PluginBlocktype {
         return array('general');
     }
 
-    public static function get_css_icon() {
+    public static function get_css_icon($blocktypename) {
         return 'check-square-o';
     }
 
