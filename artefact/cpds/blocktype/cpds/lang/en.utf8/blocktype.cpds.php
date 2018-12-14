@@ -29,7 +29,7 @@ defined('INTERNAL') || die();
 $string['title'] = 'Your Learning';
 $string['description'] = 'Display your learning logs list';
 $string['defaulttitledescription'] = 'If this is left empty the title of the log will be used.';
-$string['newercpds'] = 'Newer logss';
+$string['newercpds'] = 'Newer logs';
 $string['nocpdsaddone'] = 'No logs yet. %sAdd one%s!';
 $string['oldercpds'] = 'Older logs';
 $string['cpdstoshow'] = 'logs to show';
