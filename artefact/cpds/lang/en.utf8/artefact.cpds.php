@@ -28,26 +28,26 @@ defined('INTERNAL') || die();
 
 /* cpds */
 $string['description'] = 'Description';
-$string['deletecpdconfirm'] = 'Are you sure you wish to delete this CPD? Deleting this CPD will also remove any activities it contains.';
-$string['deletecpd'] = 'Delete CPD';
-$string['deletethiscpd'] = 'Delete CPD: \'%s\'';
-$string['editcpd'] = 'Edit CPD';
+$string['deletecpdconfirm'] = 'Are you sure you wish to delete this log? Deleting this log will also remove any activities it contains.';
+$string['deletecpd'] = 'Delete Log';
+$string['deletethiscpd'] = 'Delete Log: \'%s\'';
+$string['editcpd'] = 'Edit Log';
 $string['manageactivities'] = 'Manage activities';
-$string['mycpds'] = 'Continuing Professional Development';
-$string['newcpd'] = 'New CPD';
-$string['nocpdsaddone'] = 'No CPD yet. %sAdd one%s!';
-$string['nocpds'] = 'No CPD to display';
-$string['cpd'] = 'CPD';
-$string['cpds'] = 'CPD';
-$string['cpddeletedsuccessfully'] = 'CPD deleted successfully.';
-$string['cpdnotdeletedsuccessfully'] = 'There was an error deleting CPD.';
+$string['mycpds'] = 'Learning Logs';
+$string['newcpd'] = 'New Log';
+$string['nocpdsaddone'] = 'No log yet. %sAdd one%s!';
+$string['nocpds'] = 'No log to display';
+$string['cpd'] = 'Learning Log';
+$string['cpds'] = 'Learning Log';
+$string['cpddeletedsuccessfully'] = 'Log deleted successfully.';
+$string['cpdnotdeletedsuccessfully'] = 'There was an error deleting log.';
 $string['cpdnotsavedsuccessfully'] = 'There was an error submitting this form. Please check the marked fields and try again.';
-$string['cpdsavedsuccessfully'] = 'CPD saved successfully.';
-$string['cpdsactivities'] = 'CPD %s activities';
-$string['cpdsactivitiesdesc'] = 'Add activities below or using the button to the right to begin to build your CPD.';
-$string['savecpd'] = 'Save CPD';
+$string['cpdsavedsuccessfully'] = 'Log saved successfully.';
+$string['cpdsactivities'] = 'Log %s activities';
+$string['cpdsactivitiesdesc'] = 'Add activities below or using the button to the right to begin to build your log.';
+$string['savecpd'] = 'Save Log';
 $string['title'] = 'Title';
-$string['titledesc'] = 'The title will be used to display each activity in this CPD block.';
+$string['titledesc'] = 'The title will be used to display each activity in this Learning Log block.';
 
 /* activities */
 $string['allactivities'] = 'All activities';
@@ -72,15 +72,15 @@ $string['activities'] = 'activities';
 $string['activitydeletedsuccessfully'] = 'activity deleted successfully.';
 $string['activitiesavedsuccessfully'] = 'activity saved successfully.';
 $string['location'] = 'Location';
-$string['locationdesc'] = 'The location of the CPD activity.';
+$string['locationdesc'] = 'The location of the Log activity.';
 
 /* progress bar */
 $string['progress_cpd'] = array(
-    'Add a CPD',
-    'Add %s CPDs',
+    'Add a Log',
+    'Add %s Logs',
 );
 $string['progress_activity'] = array(
-    'Add an activity to any CPD',
-    'Add %s activities to any CPD',
+    'Add an activity to any Log',
+    'Add %s activities to any Log',
 );
 
